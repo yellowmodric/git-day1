@@ -3,3 +3,7 @@
 #building info
 
 -build1
+-build2
+-블라블라
+-자고싶고
+-집가고싶
